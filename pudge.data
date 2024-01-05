@@ -1,0 +1,11 @@
+type hero with name Pudge:
+    Pudge.iq = 0.199999999999999
+    Pudge.legs = 3
+    Pudge.arms =2
+
+Pudge can:
+    say
+    move
+    hook
+
+lore = "мясник города"
